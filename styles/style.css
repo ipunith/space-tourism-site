@@ -1,0 +1,60 @@
+body {
+    background-image: url('/styles/assets/home/background-home-desktop.jpg');
+    color: white;
+}
+
+h1 {
+    font-family: 'Bellefair', serif;
+    font-size: 150px;
+    margin-left: 100px;
+}
+
+h5 {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 28px;
+    letter-spacing: 4.75px;
+    margin-left: 100px;
+}
+
+p {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 18px;
+}
+
+.description {
+    display: inline-block;
+    width: 35%;
+    line-height: 32px;
+    margin-left: 100px;
+}
+
+.top-bar {
+    display: inline-block;
+    margin: 20px;
+}
+
+nav {
+    display: inline-block;
+    margin-right: 100px;
+}
+
+.nav-element {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 16px;
+    letter-spacing: 2.7px;
+    display: inline;
+    padding: 20px;
+}
+
+#navbar-line {
+    display: inline-block;
+    width: 50%;
+}
+
+#explore-btn {
+    display: inline-block;
+    font-family: 'Bellefair', serif;
+    font-size: 32px;
+    letter-spacing: 6.5px;
+    margin: auto 100px 50px 850px;
+}
